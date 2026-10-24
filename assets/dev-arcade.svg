@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+<title id="title">FYT's little dev arcade</title><desc id="desc">A colorful pixel game room with a robot, a cat, stars and a game controller.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171c39"/><stop offset="1" stop-color="#30244c"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#a5b4fc" stroke-opacity=".055"/></pattern></defs>
+<rect width="960" height="300" rx="20" fill="url(#bg)"/><rect width="960" height="300" rx="20" fill="url(#grid)"/>
+<g fill="#fdcf79"><path d="M62 55h5v-5h5v5h5v5h-5v5h-5v-5h-5zM870 53h5v-5h5v5h5v5h-5v5h-5v-5h-5zM817 148h4v-4h4v4h4v4h-4v4h-4v-4h-4z"/><rect x="330" y="38" width="4" height="4"/><rect x="588" y="70" width="4" height="4"/><rect x="749" y="32" width="4" height="4"/></g>
+<g fill="#c4b5fd"><rect x="169" y="34" width="4" height="4"/><rect x="461" y="46" width="4" height="4"/><rect x="918" y="122" width="4" height="4"/><rect x="41" y="169" width="4" height="4"/></g>
+<rect x="40" y="29" width="176" height="23" rx="11" fill="#4ade80" fill-opacity=".12"/><circle cx="53" cy="40" r="3" fill="#86efac"/>
+<text x="65" y="44" fill="#a7f3d0" font-family="monospace" font-size="11" letter-spacing="1">PLAYER 01 · FYT</text>
+<text x="40" y="116" fill="#fff3df" font-family="Verdana,Arial,sans-serif" font-size="44" font-weight="bold" letter-spacing="1">HELLO, WORLD!</text>
+<text x="42" y="148" fill="#c4b5fd" font-family="monospace" font-size="17">Welcome to my little dev arcade.</text>
+<rect x="41" y="170" width="103" height="25" rx="6" fill="#f9a8d4"/><text x="57" y="187" font-family="monospace" font-size="12" fill="#30244c">BUILD THINGS</text>
+<rect x="153" y="170" width="100" height="25" rx="6" fill="#a5f3fc"/><text x="167" y="187" font-family="monospace" font-size="12" fill="#163247">STAY CURIOUS</text>
+<g shape-rendering="crispEdges" transform="translate(666 68) scale(4)">
+<path d="M8 0h3v6H8z" fill="#fde68a"/><path d="M4 6h18v3h3v15h-3v3H4v-3H1V9h3z" fill="#a5b4fc"/><path d="M4 10h18v12H4z" fill="#111b32"/>
+<path d="M7 13h3v4H7zM16 13h3v4h-3z" fill="#67e8f9"/><path d="M10 20h6v1h-6z" fill="#f9a8d4"/>
+<path d="M6 28h14v13H6zM2 30h3v9H2zM21 30h3v9h-3zM7 42h4v4H7zM15 42h4v4h-4z" fill="#a5b4fc"/><path d="M11 31h4v4h-4z" fill="#f9a8d4"/>
+</g>
+<g transform="translate(823 203)" shape-rendering="crispEdges"><path d="M0 0h12v-14h10v10h18v-10h10V0h10v38H0z" fill="#fdba74"/><path d="M12 8h7v7h-7zM39 8h7v7h-7z" fill="#30244c"/><path d="M25 20h8v5h-8z" fill="#fb7185"/><path d="M60 20h13V9h9v20H60z" fill="#fdba74"/></g>
+<g transform="translate(508 213)"><path d="M9 4Q2 4 0 16l-4 19q-1 10 8 10l18-12h28l18 12q9 0 8-10l-4-19Q70 4 63 4Z" fill="#d8b4fe"/><path d="M14 13v18M5 22h18" stroke="#30244c" stroke-width="5"/><circle cx="54" cy="17" r="4" fill="#fb7185"/><circle cx="63" cy="26" r="4" fill="#38bdf8"/></g>
+<path d="M30 263H930" stroke="#a5b4fc" stroke-opacity=".25" stroke-width="2"/>
+<text x="40" y="285" fill="#9ca8cb" font-family="monospace" font-size="11" letter-spacing="1">CODE · GAMES · TOOLS · A LITTLE BIT OF MAGIC</text>
+<g fill="#f9a8d4"><path d="M870 275h4v-3h4v3h4v6h-4v4h-4v-4h-4zM891 275h4v-3h4v3h4v6h-4v4h-4v-4h-4zM912 275h4v-3h4v3h4v6h-4v4h-4v-4h-4z"/></g>
+</svg>
