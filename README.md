@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @fyt2001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm FYT 👋
 
-<!---
-fyt2001/fyt2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+游戏开发与实用工具探索者。关注 AI 辅助开发、经典游戏复现与设备自动化，分享项目实践与技术笔记。
+
+**技术标签**  
+`Java` · `Python` · `JavaScript` · `HTML/CSS` · `FastAPI` · `Git`
+
+**关注方向**  
+`游戏开发` · `J2ME` · `桌面工具` · `设备自动化` · `AI 辅助开发`
+
+## 项目实践
+
+| 项目 | 内容 |
+| --- | --- |
+| [HomeFlow](https://github.com/fyt2001/homeflow-ios) | 在电脑上预览、分组和整理 iPhone 桌面的实验性工具，包含快照、事务记录与写入后核对。 |
+| [机甲风暴 · 桌面恢复版](https://github.com/fyt2001/jijiafengbao-v5) | 基于 Java / J2ME 的非官方游戏恢复项目，提供可编译工程与 Windows 桌面操作窗口。原游戏相关权利归原权利人。 |
+
+## 开发方式
+
+- 从具体问题出发，把想法做成可以使用的小工具。
+- 重视可复现的步骤、实际验证和清晰的使用说明。
+- 使用 AI 辅助探索与实现，并区分已验证结果和实验性能力。
+
+## 找到我
+
+- 博客：[FYT 博客](https://fyt2001.top/)
+- 项目交流：欢迎在对应仓库的 Issues 中讨论问题与改进建议。
