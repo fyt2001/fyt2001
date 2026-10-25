@@ -65,6 +65,16 @@ evidence: "区分已验证结果与实验性能力"
 
 </details>
 
+### `04 / contribution.city()`
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-city.svg" width="960" alt="FYT 真实 GitHub 贡献数据生成的青紫色立体城市，包含生长动画" />
+</p>
+
+<p align="center">
+  <sub>按 GitHub 可见贡献生成 · 每日自动更新 · <a href="https://github.com/fyt2001/fyt2001/actions/workflows/contribution-city.yml">更新记录</a></sub>
+</p>
+
 <p align="center">
   <img src="./assets/signal-flow.svg" width="960" alt="动态信号流：起伏频谱与沿电路移动的光点，装饰动画" />
 </p>
