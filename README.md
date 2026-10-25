@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/neon-terminal.svg" width="960" alt="FYT 动态终端：循环打字、闪烁光标、旋转核心和扫描光带" />
+  <img src="https://raw.githubusercontent.com/fyt2001/fyt2001/2b9a370d4b72e6a0ca2d6ba1c2c57368d7d5c0d1/assets/neon-terminal.svg" width="960" alt="FYT 动态终端：循环打字、闪烁光标、旋转核心和扫描光带" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 **主技术栈 · 游戏客户端**
 
-<img src="./assets/tech-badges.svg" width="462" alt="Unity · C# · Lua · xLua" />
+<img src="https://raw.githubusercontent.com/fyt2001/fyt2001/2b9a370d4b72e6a0ca2d6ba1c2c57368d7d5c0d1/assets/tech-badges.svg" width="462" alt="Unity · C# · Lua · xLua" />
 
 `AssetBundle` · `Lua UI` · `资源加载与生命周期管理`
 
