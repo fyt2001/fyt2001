@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>游戏开发 / 实用工具 / 自动化探索</b><br />
+  <b>Unity 游戏客户端开发 / C# · Lua · xLua</b><br />
   <sub>把好奇心写成代码，把想法做成能用的东西。</sub>
 </p>
 
@@ -15,11 +15,19 @@
 
 ### `01 / stack.load()`
 
-<img src="./assets/tech-badges.svg" width="685" alt="Java · Python · JavaScript · HTML/CSS · FastAPI · Git" />
+**主技术栈 · 游戏客户端**
 
-`GAME DEV` · `J2ME` · `DESKTOP TOOLS` · `DEVICE AUTOMATION` · `AI-ASSISTED DEV`
+<img src="./assets/tech-badges.svg" width="462" alt="Unity · C# · Lua · xLua" />
 
-关注 AI 辅助开发、经典游戏复现与设备自动化，分享项目实践与技术笔记。
+`AssetBundle` · `Lua UI` · `资源加载与生命周期管理`
+
+**工具与 Web 实践**
+
+`Python` · `Vue 3` · `JavaScript` · `HTML/CSS` · `FastAPI` · `Git`
+
+`UNITY GAME DEV` · `C# / LUA INTEROP` · `DESKTOP TOOLS` · `AI-ASSISTED DEV`
+
+以 Unity 游戏客户端开发为主线，关注 C# / Lua 互操作、UI 框架、资源管理与性能分析；也做实用工具、Web 与设备自动化探索。
 
 <a id="projects"></a>
 
@@ -33,10 +41,11 @@
 ### `03 / developer.config`
 
 ```yaml
+primary_stack: [Unity, CSharp, Lua, xLua]
 interests:
-  - game_development
+  - game_client_development
+  - resource_management
   - useful_tools
-  - device_automation
 
 workflow: [explore, build, verify, iterate]
 ai: "辅助探索与实现"
