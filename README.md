@@ -1,59 +1,50 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fyt2001/fyt2001/2b9a370d4b72e6a0ca2d6ba1c2c57368d7d5c0d1/assets/neon-terminal.svg" width="960" alt="FYT 动态终端：循环打字、闪烁光标、旋转核心和扫描光带" />
+  <img src="https://raw.githubusercontent.com/fyt2001/fyt2001/2b9a370d4b72e6a0ca2d6ba1c2c57368d7d5c0d1/assets/neon-terminal.svg" width="560" alt="FYT 动态终端" />
 </p>
 
-<p align="center">
-  <b>Unity 游戏客户端开发 / C# · Lua · xLua</b><br />
-  <sub>把好奇心写成代码，把想法做成能用的东西。</sub>
-</p>
+# FYT / Unity 游戏客户端开发
 
-<p align="center">
-  <a href="https://fyt2001.top/"><b>[ BLOG ]</b></a> &nbsp; / &nbsp;
-  <a href="#projects"><b>[ PROJECTS ]</b></a> &nbsp; / &nbsp;
-  <a href="https://github.com/fyt2001?tab=repositories"><b>[ REPOSITORIES ]</b></a>
-</p>
+**C# · Lua · xLua**
 
-### `01 / stack.load()`
+关注 Lua UI、AssetBundle 加载与释放，以及客户端性能排查。也会把遇到的实际问题做成小工具。
 
-**主技术栈 · 游戏客户端**
-
-<img src="https://raw.githubusercontent.com/fyt2001/fyt2001/2b9a370d4b72e6a0ca2d6ba1c2c57368d7d5c0d1/assets/tech-badges.svg" width="462" alt="Unity · C# · Lua · xLua" />
-
-`AssetBundle` · `Lua UI` · `资源加载与生命周期管理`
-
-**工具与 Web 实践**
-
-`Python` · `Vue 3` · `JavaScript` · `HTML/CSS` · `FastAPI` · `Git`
-
-`UNITY GAME DEV` · `C# / LUA INTEROP` · `DESKTOP TOOLS` · `AI-ASSISTED DEV`
-
-以 Unity 游戏客户端开发为主线，关注 C# / Lua 互操作、UI 框架、资源管理与性能分析；也做实用工具、Web 与设备自动化探索。
+[代表作品](#projects) · [FYT 技术博客](https://fyt2001.top/) · [全部仓库](https://github.com/fyt2001?tab=repositories)
 
 <a id="projects"></a>
 
-### `02 / projects.list()`
+## `01 / projects`
 
-| 模块 | 项目 | 做了什么 |
-| --- | --- | --- |
-| `DEVICE` | **[HomeFlow](https://github.com/fyt2001/homeflow-ios)** | 在电脑上预览、分组和整理 iPhone 桌面的实验性工具。快照、事务记录、写入后核对。 |
-| `GAME` | **[机甲风暴 · 桌面恢复版](https://github.com/fyt2001/jijiafengbao-v5)** | Java / J2ME 非官方游戏恢复项目，可编译工程 + Windows 桌面操作窗口。原游戏相关权利归原权利人。 |
+### HomeFlow · iPhone 桌面整理
 
-### `03 / developer.config`
+在电脑上预览和分组 iPhone 桌面的实验性工具。先预览整理方案并保存快照，应用后重新读取布局进行核对。
 
-```yaml
-primary_stack: [Unity, CSharp, Lua, xLua]
-interests:
-  - game_client_development
-  - resource_management
-  - useful_tools
+[查看源码](https://github.com/fyt2001/homeflow-ios) · [打开工具页](https://fyt2001.top/tools/homeflow/)
 
-workflow: [explore, build, verify, iterate]
-ai: "辅助探索与实现"
-evidence: "区分已验证结果与实验性能力"
-```
+### J2ME 桌面按键窗口
+
+为自备的 Java ME 游戏 JAR 提供 Windows 桌面按键窗口，支持鼠标点击、键盘映射和方向键长按。使用时需自行准备有权使用的游戏 JAR。
+
+[查看源码与运行说明](https://github.com/fyt2001/j2me-desktop-buttons)
+
+## `02 / stack`
+
+- **游戏客户端** · Unity、C#、Lua、xLua
+- **工具与 Web** · Python、FastAPI、Vue 3、JavaScript
+
+## `03 / contribution.city()`
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-city.svg" width="960" alt="FYT 真实 GitHub 贡献数据生成的青紫色立体城市，包含生长动画" />
+</p>
+
+<p align="center">
+  <sub>按 GitHub 可见贡献生成 · 每日自动更新 · <a href="https://github.com/fyt2001/fyt2001/actions/workflows/contribution-city.yml">更新记录</a></sub>
+</p>
 
 <details>
-<summary><code>$ cat /etc/motd</code> — 展开隐藏终端</summary>
+<summary><code>$ cat /etc/motd</code> — 开发偏好与隐藏终端</summary>
+
+`explore → build → verify → iterate`
 
 ```text
   /\_/\
@@ -64,22 +55,3 @@ evidence: "区分已验证结果与实验性能力"
 ```
 
 </details>
-
-### `04 / contribution.city()`
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-city.svg" width="960" alt="FYT 真实 GitHub 贡献数据生成的青紫色立体城市，包含生长动画" />
-</p>
-
-<p align="center">
-  <sub>按 GitHub 可见贡献生成 · 每日自动更新 · <a href="https://github.com/fyt2001/fyt2001/actions/workflows/contribution-city.yml">更新记录</a></sub>
-</p>
-
-<p align="center">
-  <img src="./assets/signal-flow.svg" width="960" alt="动态信号流：起伏频谱与沿电路移动的光点，装饰动画" />
-</p>
-
-<p align="center">
-  <code>stay curious; keep building;</code><br /><br />
-  <a href="https://fyt2001.top/">FYT 博客</a> · 欢迎在对应仓库的 Issues 中交流
-</p>
